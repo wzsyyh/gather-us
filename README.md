@@ -2,6 +2,8 @@
 
 Gather-Us是一个使用梯度下降算法寻找朋友聚会最佳碰头地点的应用。该应用考虑各个朋友的位置和移动速度，通过最小化总时间平方和找到最优的碰头位置。
 
+![](./web.png)
+
 ## 问题描述
 
 假设有n个朋友想要聚会，各自在不同位置 (x_i, y_i)，每个人有不同的移动速度 v_i。我们需要找到一个碰头地点 P(x_p, y_p)，使所有人到达该地点所花费时间的平方和最小。
@@ -24,7 +26,7 @@ Gather-Us是一个使用梯度下降算法寻找朋友聚会最佳碰头地点�
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/yourusername/gather-us.git
+   git clone https://github.com/wzsyyh/gather-us.git
    cd gather-us
    ```
 
